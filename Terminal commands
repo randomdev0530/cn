@@ -1,0 +1,12 @@
+Run these commands in terminal.
+1. ipconfig: Shows IP address, subnet mask, and default gateway.  
+2. ipconfig /all: Detailed view of all network adapters, including MAC address and DNS info.  
+3. hostname: Displays the computer's name on the network.  
+4. systeminfo: Provides detailed system and OS information.  
+5. wmic: Retrieves system details (e.g., CPU, OS) and manages settings.  
+6. netstat: Lists active network connections and ports.  
+7. arp: Shows the ARP cache (IP-to-MAC mappings).  
+8. ping: Tests connectivity to a host and measures response time.  
+9. nslookup: Finds IPs for domain names or vice versa.  
+10. tasklist: Lists all running processes and their details.  
+11. tracert: Tracks packet route; shows each hop and its response time.  
